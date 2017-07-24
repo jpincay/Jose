@@ -4,6 +4,13 @@ for (var i=0; i<6; i++){
     console.log(myPokemonRoster[i]);
 } 
 
+var pokemonStats = [
+    [
+        name: Arceus
+         
+
+    ]
+]
 /*for (var i=0, i<10, i++){
     console.log(i);
 }*/

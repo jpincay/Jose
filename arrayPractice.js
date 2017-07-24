@@ -1,2 +1,2 @@
-var myArray = ["Games",5,true]
+pokemonArrayvar myArray = ["Games",5,true]
 myArray.pop();

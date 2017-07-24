@@ -12,7 +12,7 @@ function rand(num){
     return result;
     return Math.floor(Math.random()*num);
 }
+randNum(60);
+/*var students = ["Nick", "Rocket", "Ayinde", "Evan", "Priya"];
 
-var students = ["Nick", "Rocket", "Ayinde", "Evan", "Priya"];
-
-console.log(students[rand(5)]);
+console.log(students[rand(5)]);*/
