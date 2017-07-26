@@ -1,0 +1,13 @@
+header{
+    display: inline;
+    background: black;
+}
+
+h1{
+    text-align: center;
+    margin: 0 auto;
+    padding: 15%;
+    color: white;
+    font-size: 250%;
+    font-weight: bold;
+}
